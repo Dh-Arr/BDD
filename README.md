@@ -15,7 +15,7 @@ Este proyecto es una solución para gestionar [explica brevemente qué hace, ej:
 </p>
 
 ### 📸 Diagrama Entidad-Relación
-![Diagrama ERD](nombre_de_tu_imagen.png)
+![Diagrama ERD](Trabajo Semestral-MR.pdf)
 
 ---
 <p align="center">Hecho con 💗 por <a href="https://github.com/Dh-Arr">Arline Mitchell</a></p>
